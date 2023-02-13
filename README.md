@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reveldevel
 - 👀 I’m interested in: FLOSS/H, Linux, GrapheneOS, ATAK/CivTAK, emacs, and much more. 
-- 🌱 I’m currently learning a variety of basics through Codecademy.
+- 🌱 I’m currently teaching myself how to code/program. I'm also buffing my Project Management skills.
 - 💞️ I’m looking to collaborate on bringing free software to the fore.
 - 📫 How to reach me: TBD
 
